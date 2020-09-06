@@ -8,4 +8,8 @@ class Lion extends Cat{
     roar(){
         console.log("Gaaaoooooooo!!!");
     }
+
+    bite(){
+        console.log("nhac!");
+    }
 }
