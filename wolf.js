@@ -6,4 +6,8 @@ class Wolf{
     bark(){
         console.log("auuuuuuuuuuu!!");
     }
+
+    bite(){
+        console.log("nhac");
+    }
 }
