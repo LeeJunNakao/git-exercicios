@@ -12,4 +12,8 @@ class Lion extends Cat{
     bite(){
         console.log("nhac!");
     }
+
+    run(){
+        console.log("run very fast! =O");
+    }
 }
